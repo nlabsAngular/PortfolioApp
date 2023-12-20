@@ -1,0 +1,174 @@
+{
+    "settings": [
+        {
+            "name": "Cuma KÖSE",
+            "myJob": "FullStack .Net Developper Trainer",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, similique. Optio, unde beatae! Non, iure labore quasi, molestiae magni iste neque repellat illum itaque recusandae culpa perferendis quibusdam ab enim.",
+            "myImage": "image1.jpg",
+            "callUs": "+905XX XXX XX XX",
+            "office": "Elazığ",
+            "linkedinTitle": "TurkMvc",
+            "linkedinLink": "turkmvc",
+            "githubUserName": "turkmvc",
+            "webSiteTitle": "Github",
+            "webSite": "https://turkmvc.github.io/",
+            "birthDate": "29 August 1987",
+            "age": 36,
+            "degree": "CS",
+            "city": "Elazığ",
+            "country": "Türkiye",
+            "freelance": "Available",
+            "cvUrl": "#contact",
+            "id": 1
+
+        }
+    ],
+    "skills": [
+        {
+            "name": "C#",
+            "percent": 76,
+            "id": 1
+        },
+        {
+            "name": ".Net",
+            "percent": 76,
+            "id": 2
+        },
+        {
+            "name": "Angular",
+            "percent": 76,
+            "id": 3
+        },
+        {
+            "name": "SQL",
+            "percent": 76,
+            "id": 4
+        },
+        {
+            "name": "NoSQL",
+            "percent": 76,
+            "id": 5
+        },
+        {
+            "name": "Docker",
+            "percent": 76,
+            "id": 6
+        }
+    ],
+    "services": [
+        {
+            "name": "Web Design",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, similique. Optio, unde beatae! Non, iure labore quasi, molestiae magni iste neque repellat illum itaque recusandae culpa perferendis quibusdam ab enim.",
+            "icon": "mobile-alt",
+            "id": 1
+        },
+        {
+            "name": "Web Design",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, similique. Optio, unde beatae! Non, iure labore quasi, molestiae magni iste neque repellat illum itaque recusandae culpa perferendis quibusdam ab enim.",
+            "icon": "laptop-code",
+            "id": 2
+        },
+        {
+            "name": "Web Design",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, similique. Optio, unde beatae! Non, iure labore quasi, molestiae magni iste neque repellat illum itaque recusandae culpa perferendis quibusdam ab enim.",
+            "icon": "palette",
+            "id": 3
+        },
+        {
+            "name": "Web Design",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, similique. Optio, unde beatae! Non, iure labore quasi, molestiae magni iste neque repellat illum itaque recusandae culpa perferendis quibusdam ab enim.",
+            "icon": "code",
+            "id": 4
+        },
+        {
+            "name": "Web Design",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, similique. Optio, unde beatae! Non, iure labore quasi, molestiae magni iste neque repellat illum itaque recusandae culpa perferendis quibusdam ab enim.",
+            "icon": "search",
+            "id": 5
+        },
+        {
+            "name": "Web Design",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, similique. Optio, unde beatae! Non, iure labore quasi, molestiae magni iste neque repellat illum itaque recusandae culpa perferendis quibusdam ab enim.",
+            "icon": "bullhorn",
+            "id": 6
+        }
+    ],
+    "educations": [
+        {
+            "name": "Full Stack .Net Developper",
+            "description": "I am training to become a Senior Full Stack .Net Developer. I am sure that I will achieve this as soon as possible.",
+            "startDate": 2023,
+            "endDate": 2024,
+            "id": 1
+        },
+        {
+            "name": "Backend .Net Developper",
+            "description": "I am training to become a Senior Backend .Net Developer. I am sure that I will achieve this as soon as possible.",
+            "startDate": 2023,
+            "endDate": 2024,
+            "id": 2
+        },
+        {
+            "name": "Full Stack Angular Developper",
+            "description":"I am training to become a Senior Angular Developer. I am sure that I will achieve this as soon as possible.",
+            "startDate": 2023,
+            "endDate": 2024,
+            "id": 3
+        }
+    ],
+    "experiences": [
+        {
+            "name": "Full Stack .Net Developper",
+            "description": "I am training to become a Senior Full Stack .Net Developer. I am sure that I will achieve this as soon as possible.",
+            "startDate": 2023,
+            "endDate": 2024,
+            "id": 1
+        },
+        {
+            "name": "Backend .Net Developper",
+            "description": "I am training to become a Senior Backend .Net Developer. I am sure that I will achieve this as soon as possible.",
+            "startDate": 2023,
+            "endDate": 2024,
+            "id": 2
+        },
+        {
+            "name": "Full Stack Angular Developper",
+            "description":"I am training to become a Senior Angular Developer. I am sure that I will achieve this as soon as possible.",
+            "startDate": 2023,
+            "endDate": 2024,
+            "id": 3
+        }
+    ],
+    "portfolios": [
+        {
+            "image": "portfolio-1.PNG",
+            "description": "Portfolio 1",
+            "id": 1
+        },
+        {
+            "image": "portfolio-2.PNG",
+            "description": "Portfolio 2",
+            "id": 2
+        },
+        {
+            "image": "portfolio-3.PNG",
+            "description": "Portfolio 3",
+            "id": 3
+        },
+        {
+            "image": "portfolio-1.PNG",
+            "description": "Portfolio 1",
+            "id": 4
+        },
+        {
+            "image": "portfolio-2.PNG",
+            "description": "Portfolio 2",
+            "id": 5
+        },
+        {
+            "image": "portfolio-3.PNG",
+            "description": "Portfolio 3",
+            "id": 6
+        }
+    ]
+}

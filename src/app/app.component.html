@@ -1,0 +1,30 @@
+<div class="main-container">
+  <app-aside></app-aside>
+  <div class="main-content">
+    <app-home></app-home>
+    <app-about></app-about>
+    <app-services></app-services>
+    <app-portfolios></app-portfolios>
+    <app-contact></app-contact>
+  </div>
+</div>
+<div class="style-switcher" [class.open]="styleSwitcherOpen">
+    <div class="style-switcher-toggler s-icon" (click)="toggleStyleSwitcher()">
+      <i class="fas fa-cog fa-spin"></i>
+    </div>
+
+    <div class="day-night s-icon" (click)="toggleDayNightMode()">
+        <i [ngClass]="{'fa-solid fa-sun': !isDarkMode, 'fas fa-moon': isDarkMode}"></i>
+      </div>
+      
+    <h4>Theme Colors</h4>
+    <div class="colors">
+      <span class="color-1" (click)="setActiveStyle('color-1')"></span>
+      <span class="color-2" (click)="setActiveStyle('color-2')"></span>
+      <span class="color-3" (click)="setActiveStyle('color-3')"></span>
+      <span class="color-4" (click)="setActiveStyle('color-4')"></span>
+      <span class="color-5" (click)="setActiveStyle('color-5')"></span>
+    </div>
+</div>
+
+  
